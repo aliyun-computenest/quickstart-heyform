@@ -48,13 +48,12 @@
 
 <h2> Deployment process </h2>
 
-<p>1. Visit the HeyForm Community Service <a href = "https://computenest.console.aliyun.com/service/instance/create/cn-hangzhou?type=user&ServiceId=service-a47e56f0ea9f460d8d33"> Deployment link </a> and fill in the deployment parameters as prompted:
-<img src="1.jpg" alt="image.png" /></p>
-
-<p>2. After completing the parameters, you can see the corresponding inquiry details. After confirming the parameters, click <strong> Next: Confirm Order </strong>. Confirm that the order is complete and agree to the service agreement and click <strong> Create Now </strong> to proceed to the deployment phase. </p>
-
-<p>4. After the deployment is completed, enter the service instance management and find the HeyForm service access link in the console.
-<img src="2.jpg" alt="image.png" /></p>
-
-<p>5. Click the link to access the service.
-<img src="3.jpg" alt="image.png" /></p>
+<ol>
+<li><p> Visit the HeyForm community service <a href = "https://computenest.console.aliyun.com/service/instance/create/cn-hangzhou?type=user&ServiceId=service-a47e56f0ea9f460d8d33"> Deployment link </a> and fill in the deployment parameters as prompted:
+<img src="1.jpg" alt="image.png" /></p></li>
+<li><p> after the parameters are filled in, you can see the corresponding inquiry details. after confirming the parameters, click <strong> next: confirm the order </strong>. Confirm that the order is complete and agree to the service agreement and click <strong> Create Now </strong> to proceed to the deployment phase. </p></li>
+<li><p> After the deployment is completed, enter the service instance management and find the HeyForm service access link in the console.
+<img src="2.jpg" alt="image.png" /></p></li>
+<li><p> Click the link to access the service.
+<img src="3.jpg" alt="image.png" /></p></li>
+</ol>
